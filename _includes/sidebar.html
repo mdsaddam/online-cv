@@ -13,6 +13,13 @@
        <h3 class="tagline">{{site.tagline}}</h3>
        {% endif %}
 
+       
+       {% if site.resumeAttachment %}
+        <span style=" display: block; margin-top: 20px;">
+          <a class="resumeAttachment" href="{{site.baseurl}}/assets/{{site.resumeAttachment}}"><i class="glyphicon glyphicon-download"></i>&nbsp;Download Resume</a>
+        </span>
+       {% endif %}
+
    </div><!--//profile-container-->
 
    <div class="contact-container container-block">

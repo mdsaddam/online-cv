@@ -17,6 +17,7 @@ style: styles-6
 name: Md Saddam Hussain
 tagline: Full Stack Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+resumeAttachment: "attachments/resume.pdf"
 summary: "I have over 5 years of experience building B2B SaaS product. Working on AWS cloud solutions to build secure, scalable product & ease of deployment process. Built RESTful API's on Microservices to build cross paltform application.
         <br><br>
         Competencies: Cloud computing, AWS, Firebase, PHP, MySQL, ReactNative, Node JS, NPM"

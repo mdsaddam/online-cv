@@ -11,21 +11,23 @@
       <div class="upper-row">
         <h3 class="job-title">{{ experience.role }}</h3>
         <div class="time">{{ experience.time }}</div>
-        {% if experience.isProduct %}
-          <hr>
-        {% endif %}
       </div>
       <!--//upper-row-->
-
+      
       <div class="company">{{ experience.company }}</div>
-
+      
     </div>
     <!--//meta-->
-
+    
     {% if experience.details %}
     <div class="details">
       <p>{{ experience.details }}</p>
     </div>
+
+    {% if experience.isProduct %}
+      <hr>
+    {% endif %}
+    
     <!--//details-->
     {% endif %} {% for project in experience.projects %}
     <div class="project-box">
