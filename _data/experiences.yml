@@ -1,28 +1,123 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  role: Sr. Product Engineer
+  time: Oct 2012 - Present
+  company: Coherendz India Pvt. Ltd.
+  details: ""
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  isProduct: "Yes"
+  role: Vaave Web Application
+  time: 2014 - Present
+  # company: Google, London
+  details: "Vaave is a one stop solution for all alumni networking needs."
+  projects:
+    - project:
+      title: SaaS Model
+      link: "#"
+      tagline: "Built a subscription model to use application on their own domain"
+    - project:
+      title: Microservices Architecture
+      link: "#"
+      tagline: "Designed & developed RESTful microservices to support
+multiple platforms & make background tasks independent of application server"
+    - project:
+      title: Unified Payment Process
+      link: "#"
+      tagline: "Designed & developed a secure, robust & intuitive payment process to create account managers, collect payments & generate financial reports, helped institutions in 10x growth.
+      <br>
+      Integrated multiple payment gateways like PayPal, CCAvenue, Cashfree & multiple currencies"
+    - project:
+      title: Theme Builder
+      link: "#"
+      tagline: "Built a template system to give personalized branding & customizations"
+    - project:
+      title: Notifications
+      link: "#"
+      tagline: "Implemented FCM SDK to deliver notifications cross multiple platform, built a
+pub/sub model to track activity on application & deliver notification to subscribers"
+    - project:
+      title: Analytics
+      link: "#"
+      tagline: "Implemented Google Analytics & an application level tracker to help build data
+driven application which lead 3x growth in various parts of application"  
+    - project:
+      title: User Access Control
+      link: "#"
+      tagline: "Built a secure & robust UAC model, where any number of roles can be created with
+customizable permissions to specific modules helps admins in distributing responsibilities"
+    - project:
+      title: Alumni Directory
+      link: "#"
+      tagline: "Built a public alumni directory helps indexing on search engines"
+    - project: 
+      title: Miscellaneous
+      link: "#"
+      tagline: "Built an hierarchical settings management where any feature
+can be customized at any level (application, client type or specific client)
+      <br>
+      Built a system to sync jobs from RSS feed & a mapper to support any data format
+      <br>
+      Worked on multiple time zones & currencies"
+
 - experience:
-  role: UI Developer
+  isProduct: "Yes"
+  role: Vaave Mobile Application
+  time: 2017 - Present
+  # company: Amazon, London
+  details: "Helps alumni connect their portal powered by Vaave"
+  projects:
+    - project:
+      title: Offline Support
+      link: "#"
+      tagline: "Built offline support with Redux persist, to store all kinds content & user profile in local database"
+    - project:
+      title: Notifications
+      link: "#"
+      tagline: "Built notifications with FCM SDK, to push updates to users instantly"
+    - project:
+      title: Analytics
+      link: "#"
+      tagline: "Integrated Google Analytics to track user behavior & activity throughout application, helps in building data driven application"
+    - project:
+      title: Crash Analytics
+      link: "#"
+      tagline: "Integrated Crash Analytics to track fails, crashes in application automatically instead of depending on user feedback"
+    - project:
+      title: Social Logins 
+      link: "#"
+      tagline: "Integrated Facebook, Google & LinkedIn logins to simplify user onboarding"
+    - project:
+      title: CodePush (OTA)
+      link: "#"
+      tagline: "Push OTA (Over The Air) updates to mobile app in case of hotfixes or any ReactNative changes instead of depending on user to update mobile app from play/app store"
+    - project:
+      title: Miscellaneous
+      link: "#"
+      tagline: "Built multi institutional support, each user can be part of multiple institutions powered by vaave & connect to it with single login"
+
+- experience:
+  isProduct: "Yes"
+  role: Online Registrations
   time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  # company: Amazon, London
+  details: "Online Registrations is an event management system, where organizers can accept payment, manage  registrations, generate reports, keep track of financial information."
+  projects:
+    - project:
+      title: Form Builder
+      link: "#"
+      tagline: "Developed a form builder with easy to use and intuitive drag & drop interface"
+    - project:
+      title: Financial Reports
+      link: "#"
+      tagline: "Built a financial reporting system & export those filtered report in PDF/CSV formats"
+    - project:
+      title: Third Party Integrations
+      link: "#"
+      tagline: "Integrated Mandrill API's for mailing, SSO for Google & Facebook singin & Google maps, Google contacts integrations"
+    - project:
+      title: Payments
+      link: "#"
+      tagline: "Collecting payments through registrations, donations & waiting list"
+    - project:
+      title: Social Logins 
+      link: "#"
+      tagline: "Integrated Facebook, Google & LinkedIn logins to simplify user onboarding"
