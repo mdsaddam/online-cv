@@ -43,3 +43,5 @@ compress_html: # - http://jch.penibelst.de/
   clippings: all
   ignore:
     envs: development
+
+theme: jekyll-theme-cayman
