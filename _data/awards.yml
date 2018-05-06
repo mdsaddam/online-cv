@@ -1,0 +1,15 @@
+# intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
+  # sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+awards:
+  - award:
+    title: React Native Mobile App
+    link: "#hook"
+    tagline: "Took an initiative to build ReactNative mobile application with faster development cycle and single codebase for multiple platforms"
+  - award:
+    title: Mobile Gaming
+    link: "#"
+    tagline: "Second prize, mobile gaming (android), Pragnya’10, Gokaraju Rangaraju Institute of Engineering & Technology, Hyderabad"
+  - award:
+    title: R&D Showcase
+    link: "#"
+    tagline: "First prize, R&D showcase, Innovision 2k11, Institute of Aeronautical Engineering, Hyderabad"
