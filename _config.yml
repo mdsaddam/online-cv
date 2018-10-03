@@ -1,9 +1,8 @@
 # Site Settings
 title: My Resume
-url: 'https://mdsaddam.github.io/resume/'
-baseurl: '/resume' #change it according to your repository name
+url: "https://mdsaddam.github.io/resume/"
+baseurl: "/resume" #change it according to your repository name
 about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
-
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
 #style: styles-2
@@ -12,15 +11,15 @@ about: False # set to False or comment line if you want to remove the "How to us
 #style: styles-5
 style: styles-6
 
-
 #Profile information
 name: Md Saddam Hussain
-tagline: Full Stack Developer
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+tagline: Lead Software Engineer
+pic: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 resumeAttachment: "attachments/resume.pdf"
-summary: "I have over 5 years of experience building B2B SaaS product. Working on AWS cloud solutions to build secure, scalable product & ease of deployment process. Built RESTful API's on Microservices to build cross paltform application.
-        <br><br>
-        Competencies: Cloud computing, AWS, Firebase, PHP, MySQL, ReactNative, Node JS, NPM"
+summary:
+  "I have over 6 years of experience building B2B SaaS products. Working on AWS cloud solutions to build secure, scalable products & ease of deployment. Built RESTful API's on Microservices to build cross paltform application.
+  <br><br>
+  Competencies: Node JS, ReactNative, JavaScript, Python, PHP, MySQL, AWS, Firebase"
 
 #sidebar links
 email: saddam.muhammad9@gmail.com
@@ -28,7 +27,7 @@ phone: +91-81421 15584
 website: mdsaddam.github.io/resume #do not add http://
 linkedin: mdsaddam
 github: mdsaddam
-twitter: '@saddam100'
+twitter: "@saddam100"
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar

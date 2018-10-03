@@ -1,0 +1,15 @@
+{% if site.data.skills %}
+<div class="education-container container-block">
+
+    <h2 class="container-block-title">Skills</h2>
+
+    {% for skill in site.data.skills %}
+    <div class="item">
+        <h5 class="meta">{{ skill.name }}</h5>
+    </div>
+    <!--//item-->
+    {% endfor %}
+
+</div>
+<!--//education-container-->
+{% endif %}
