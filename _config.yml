@@ -17,9 +17,7 @@ tagline: Lead Software Engineer
 pic: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 resumeAttachment: "attachments/resume.pdf"
 summary:
-  "I have over 6 years of experience building B2B SaaS products. Working on AWS cloud solutions to build secure, scalable products & ease of deployment. Built RESTful API's on Microservices to build cross paltform application.
-  <br><br>
-  Competencies: Node JS, ReactNative, JavaScript, Python, PHP, MySQL, AWS, Firebase"
+  "I have over 6 years of experience building B2B SaaS products. Working on AWS cloud solutions to build secure, scalable products & ease of deployment. Built RESTful API's on Microservices to build cross paltform application."
 
 #sidebar links
 email: saddam.muhammad9@gmail.com

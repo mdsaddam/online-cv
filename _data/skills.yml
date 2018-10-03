@@ -1,21 +1,27 @@
 - skill:
-  name: PHP & Codeigniter
-  level: 98%
-- skill:
-  name: Javascript & jQuery
-  level: 98%
-- skill:
-  name: Cloud Computing, AWS 
-  level: 98%
-- skill:
-  name: HTML5 & CSS
-  level: 95%
+  name: Node JS
+  level: 100%
 - skill:
   name: React Native
-  level: 90%
+  level: 100%
 - skill:
-  name: Node JS & Socket IO
-  level: 85%
+  name: JavaScript
+  level: 100%
 - skill:
-  name: Python, Core Java
-  level: 60%
+  name: Python
+  level: 100%
+- skill:
+  name: Core Java
+  level: 100%
+- skill:
+  name: PHP
+  level: 100%
+- skill:
+  name: MySQL
+  level: 100%
+- skill:
+  name: AWS (Amazon Web Services)
+  level: 100%
+- skill:
+  name: Firebase
+  level: 100%
