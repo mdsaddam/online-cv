@@ -1,27 +1,27 @@
 - skill:
-  name: Node JS
+  name: Node JS, JavaScript (ES6)
   level: 100%
 - skill:
   name: React Native
   level: 100%
 - skill:
-  name: JavaScript
+  name: Python, Core Java
   level: 100%
 - skill:
-  name: Python
+  name: PHP, CodeIgniter, Laravel
   level: 100%
 - skill:
-  name: Core Java
-  level: 100%
-- skill:
-  name: PHP
-  level: 100%
-- skill:
-  name: MySQL
+  name: MySQL, Redis, MemCached
   level: 100%
 - skill:
   name: AWS (Amazon Web Services)
   level: 100%
 - skill:
-  name: Firebase
+  name: Google Firebase
+  level: 100%
+- skill:
+  name: JQuery, AJAX, JSON
+  level: 100%
+- skill:
+  name: Payment Gateway Integrations (Paypal, CCAvenue, Cashfree)
   level: 100%
